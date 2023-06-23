@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Techvins-Assignment/static/css/main.4d2c646e.css",
+    "main.js": "/Techvins-Assignment/static/js/main.19e89a36.js",
+    "static/js/787.aeb39de0.chunk.js": "/Techvins-Assignment/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/Techvins-Assignment/index.html",
+    "main.4d2c646e.css.map": "/Techvins-Assignment/static/css/main.4d2c646e.css.map",
+    "main.19e89a36.js.map": "/Techvins-Assignment/static/js/main.19e89a36.js.map",
+    "787.aeb39de0.chunk.js.map": "/Techvins-Assignment/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d2c646e.css",
+    "static/js/main.19e89a36.js"
+  ]
+}
